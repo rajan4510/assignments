@@ -7,7 +7,7 @@ public class Circle {
 	   float pi;
 	// static varible
 //final static float pi = 3.14f;
-	
+	//
 	// default constructor
 //public Circle() {	
 //}

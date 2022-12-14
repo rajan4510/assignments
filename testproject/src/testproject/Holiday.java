@@ -1,6 +1,6 @@
 package testproject;
 
-public class Holiday {
+public  class Holiday {
 	
      int day;
 	String name;
@@ -14,10 +14,12 @@ public class Holiday {
 	}
 	
        public void insamemonth(){
-    	   boolean same= (month==month);
+    	   String m ="january1";
+    	   boolean same= (month==m);
     	   if(same)
     	   {
-    		   System.out.println(true);
+    		
+    	 System.out.println(true);
     	   }else
     	   {
     		   System.out.println(false);

@@ -14,7 +14,7 @@ public  class Holiday {
 	}
 	
        public void insamemonth(){
-    	   String m ="january1";
+    	   String m ="january";
     	   boolean same= (month==m);
     	   if(same)
     	   {
